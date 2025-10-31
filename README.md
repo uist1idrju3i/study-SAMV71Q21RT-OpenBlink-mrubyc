@@ -1,4 +1,5 @@
 # study-SAMV71Q21RT-OpenBlink-mrubyc
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/uist1idrju3i/study-SAMV71Q21RT-OpenBlink-mrubyc)
 
 ## メモ
 - RTOS無しで動作させたい
